@@ -1,16 +1,10 @@
-
 import './App.css'
-
+import Weather from './Weather'
 function App() {
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline blue-bg-100">
-      Hello world!
-    </h1>
-      <h1>Name</h1>
-      <p>Saqib</p>
-  
+    <Weather />
     </>
   )
 }
