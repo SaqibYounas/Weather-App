@@ -19,14 +19,8 @@
 } */
 body{
     height: 100vh; /* 100% of the viewport height */
-    overflow: hidden; /* To prevent scrolling */
     font-family: system-ui;
-    /* background-color: black;  */
+    background-color:  /*  background-color: black; */
  }
-
-.ptag {
-    position: relative;
-    top: -650px;  /* Keep this if needed */
-}
 
 
